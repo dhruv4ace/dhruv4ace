@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/a045e43e010bb370617a88794dfd32c2/tumblr_o89qm62eKT1sc5pr3o1_r1_1280.gif)](httpsL://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">A passionate Game developer and Software Engineer from India.</h3>
-<img aign="right" alt="Coding" width="400" src="https://gifdb.com/images/file/anime-boy-eating-noodles-tnp9jlnklq617eih.gif">
+<img aign="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-246.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv4ace&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv4ace" /> </p>
 
