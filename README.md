@@ -1,5 +1,7 @@
+[![MasterHead](https://tenor.com/view/apartamento-qualquer-banner-banner-gif-20682795)](httpsL://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">A passionate Game developer and Software Engineer from India.</h3>
+<img aign="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv4ace&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv4ace" /> </p>
 
